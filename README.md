@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Gustavo Nunes</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Um desenvolvedor Full-Stack apaixonado por Laravel e ReactJS</h3>
 
 - 🔭 Meu projeto de estudo mais recente, nele eu apliquei rapidamente algumas praticas que uso no dia a dia de trabalho e uso esse projeto mais para fazer apis e algumas poucas views. Normalmente o front-end faço separadamente. Esse foi uma exceção. [Stripe Subscriptions ADMIN](https://github.com/gustavonunes01/Portal-Gerenciamento-de-assinaturas-Stripe)
 
