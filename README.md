@@ -3,7 +3,7 @@
 
 - 🔭 Meu projeto de estudo mais recente, nele eu apliquei rapidamente algumas praticas que uso no dia a dia de trabalho e uso esse projeto mais para fazer apis e algumas poucas views. Normalmente o front-end faço separadamente. Esse foi uma exceção. [Stripe Subscriptions ADMIN](https://github.com/gustavonunes01/Portal-Gerenciamento-de-assinaturas-Stripe)
 
-- 💬 Pergunte-me sobre **Laravel, ReactJS, ReactNative, PHP ALL VERSIONS, CSS, MySql, PostGres, JavaScript, Arquitetura de projeto, design pattern**
+- 💬 Pergunte-me sobre **Laravel, ReactJS, ReactNative, PHP ALL VERSIONS, CSS, MySql, PostGres, JavaScript, Arquitetura de projeto, design pattern, Magento 2 (FullStack)...**
 
 - 📫 Como chegar até mim **gustavo.posso@gmail.com**
 
